@@ -1,0 +1,4 @@
+libopencv
+=========
+
+opencv library

@@ -1,4 +1,0 @@
-libopencv
-=========
-
-opencv library
